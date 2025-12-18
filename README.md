@@ -1,6 +1,6 @@
 # Hello-World
 Talk with me!
 
-This is the first time that I edit my document. 
+This is the first time I have edited my document. 
 
 Have fun!
